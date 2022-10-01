@@ -1,4 +1,4 @@
-###  Hi, I’m Chetna <img src="/src/wave.gif" width="30px" height="30px">
+###  Hi, I’m Chetna  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">
 
 - 👀 I’m interested in Web Development and Machine Learning 
 - 🌱 I’m currently learning Data Structures and Algorithms 
