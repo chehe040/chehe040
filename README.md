@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">, I'm Chetna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>  
 
-![alt text](https://pbs.twimg.com/profile_banners/1449043842192195586/1641120989/1080x360)
+<!--- twitter header, but then remove first 2 lines ![alt text](https://pbs.twimg.com/profile_banners/1449043842192195586/1641120989/1080x360) --->
 
 - 👀 I’m interested in Web Development and Machine Learning 
 - 🌱 I’m currently learning Data Structures and Algorithms 
