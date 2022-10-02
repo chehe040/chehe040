@@ -1,4 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">, I'm Chetna</h1>
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 <h3 align="center">A passionate frontend developer from India</h3>  
 
 <!--- twitter header, but then remove first 2 lines ![alt text](https://pbs.twimg.com/profile_banners/1449043842192195586/1641120989/1080x360) --->
@@ -9,6 +12,7 @@
 - 🎨 I'm also a freelance UI/UX designer and web developer 
 - ✉️  You can contact me at [chetnasoni040@gmail.com](mailto:chetnasoni040@gmail.com)
 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## 💻 Tech Stack:
 
@@ -41,15 +45,18 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD" /></a>
 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Connect with me:
+
 <p align="left"> <a href="https://www.github.com/chehe040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
 <!---
 chehe040/chehe040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-random dev meme <img src="https://random-memer.herokuapp.com/" width="512px"/>
 line to divide sections <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 --->
