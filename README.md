@@ -1,10 +1,11 @@
-###  Hi, I’m Chetna  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">
+### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">
 
 - 👀 I’m interested in Web Development and Machine Learning 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on web dev projects and participate in hackathons 
 - 🎨 I'm also a freelance UI/UX designer and web developer 
-- 📫 How to reach me ... drop me an email on chetnass040@gmail.com 
+- 📫 How to reach me ... drop me an email on chetnasoni040@gmail.com 
+
 
 ## ⚡ Tech Stack
 
@@ -50,7 +51,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 --->
-### Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/chet4000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chetna Soni Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chetna-soni-88309a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chetna Soni Linkedin" height="30" width="40" /></a>
