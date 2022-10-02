@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">, I'm Chetna</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7D926&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Chetna;Frontend+Web+Developer;Graphic+Designer;Machine+Learning;Uday+Mehtani;web3+enthusiast;Learning+DSA)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from India</h3>  
 
 <!--- twitter header, but then remove first 2 lines ![alt text](https://pbs.twimg.com/profile_banners/1449043842192195586/1641120989/1080x360) --->
 
