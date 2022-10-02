@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">, I'm Chetna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>  
 
+![alt text](https://pbs.twimg.com/profile_banners/1449043842192195586/1641120989/1080x360)
+
 - 👀 I’m interested in Web Development and Machine Learning 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on web dev projects and participate in hackathons 
@@ -8,7 +10,7 @@
 - ✉️  You can contact me at [chetnasoni040@gmail.com](mailto:chetnasoni040@gmail.com)
 
 
-## ⚡ Tech Stack
+## 💻 Tech Stack:
 
 ### 🚀 Languages
 
@@ -41,8 +43,9 @@
 ## Connect with me:
 <p align="left"> <a href="https://www.github.com/chehe040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
 
+
 <!---
 chehe040/chehe040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-add sql and php to languages
+random dev meme <img src="https://random-memer.herokuapp.com/" width="512px"/>
 --->
