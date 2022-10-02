@@ -49,7 +49,8 @@
 
 ## Connect with me:
 
-<p align="left"> <a href="https://www.github.com/chehe040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+
+<p align="left">  <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=chehe040&color=ff69b4&style=flat-square&label=Visitors)
