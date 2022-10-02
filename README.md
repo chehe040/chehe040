@@ -11,7 +11,7 @@
 - ✉️  You can contact me at [chetnasoni040@gmail.com](mailto:chetnasoni040@gmail.com)
 
 
-## 💻 Tech Stack:
+## 💻 My Tech Stack:
 
 ### 🚀 Languages
 
@@ -46,6 +46,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Connect with me:
+
+<p align="left"> <a href="https://www.github.com/chehe040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+
+
+![Visitors](https://komarev.com/ghpvc/?username=chehe040&color=ff69b4&style=flat-square&label=Visitors)
+
+
+<!---
+chehe040/chehe040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+line to divide sections <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 <!--- for customizing pinned repo cards
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=omni" />
@@ -55,15 +69,4 @@
 </a>
 --->
 
-## Connect with me:
 
-<p align="left"> <a href="https://www.github.com/chehe040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/chetna-soni-88309a205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chet4000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
-
-
-
-<!---
-chehe040/chehe040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-line to divide sections <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
---->
