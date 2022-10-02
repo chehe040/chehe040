@@ -48,4 +48,6 @@
 chehe040/chehe040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 random dev meme <img src="https://random-memer.herokuapp.com/" width="512px"/>
+line to divide sections <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 --->
